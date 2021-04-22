@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+#loginFormArea {
+	margin: auto;
+	width: 400px;
+	height: 200px;
+	border: 5px double hotpink;
+	border-radius: 10px;
+	text-align: center;
+}
+
+fieldset {
+	text-align: right;
+	border: none;
+}
+
+#selectButton {
+	margin-top: 10px;
+}
+
+table {
+	width: 380px;
+	margin: auto;
+}
+
+table td:nth-child(1){
+	text-align: right;
+	width: 180px
+}
+table td:nth-child(2){
+	width: 200px
+}
